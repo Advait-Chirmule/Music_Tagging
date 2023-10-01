@@ -1,0 +1,33 @@
+.mainbody {
+    background-image: url(Header1.png);
+    padding: 25px;
+}
+
+.textbody {
+    padding: 25px;
+    background-image: url(Header2.png);
+}
+
+.buttonan:hover {
+    color: black;
+    background-color: #ee08db;
+    filter: drop-shadow(0 0 20px #ee08db) contrast(1) brightness(1);
+}
+
+.buttonan1:hover {
+    color: black;
+    background-color: #ee0808;
+    filter: drop-shadow(0 0 20px #ee0808) contrast(1) brightness(1);
+}
+
+.socialdistancing{
+    margin-left: 25px;
+}
+
+.socialdistancing2{
+    margin-bottom: 20px;
+}
+
+form{
+    display: inline;
+}
